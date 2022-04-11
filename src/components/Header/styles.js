@@ -35,7 +35,7 @@ export default makeStyles((theme) => ({
     color: 'white',
   },
   inputInput: {
-    padding: theme.spacing(1, 2, 1, 0), 
+    padding: theme.spacing(2, 6, 2, 0), 
     paddingLeft: `calc(1em + ${theme.spacing(4)}px)`, 
     transition: theme.transitions.create('width'), 
     width: '100%', 
